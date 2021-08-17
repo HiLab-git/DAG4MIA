@@ -16,7 +16,7 @@ Comprehensive summary about [Domain Generalization](https://github.com/amber0309
 Qi Dou, Cheng Ouyang, Cheng Chen, Hao Chen, Pheng-Ann Heng
 *International Joint Conferences on Artificial Intelligence* (**IJCAI** 2018).
 
-- [Unsupervised domain adaptation in brain lesion segmentation with adversarial networks](https://arxiv.org/abs/1612.08894)  
+- [Unsupervised Domain Adaptation in Brain Lesion Segmentation with Adversarial Networks](https://arxiv.org/abs/1612.08894)  
 Konstantinos Kamnitsas, Christian Baumgartner, Christian Ledig, Virginia F.J. Newcombe, Joanna P. Simpson, Andrew D. Kane, David K. Menon, Aditya Nori, Antonio Criminisi, Daniel Rueckert, Ben Glocker  
 *arXiv preprint arXiv:1612.08894* (2016).  
 
