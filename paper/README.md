@@ -13,7 +13,7 @@ Comprehensive summary about [Domain Generalization](https://github.com/amber0309
 ### Domain Adaptation
 - [Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss](https://arxiv.org/abs/1804.10916)  
 [[code](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation)] / [[data](https://drive.google.com/file/d/1m9NSHirHx30S8jvN0kB-vkd7LL0oWCq3/view)]  
-Qi Dou, Cheng Ouyang, Cheng Chen, Hao Chen, Pheng-Ann Heng
+Qi Dou, Cheng Ouyang, Cheng Chen, Hao Chen, Pheng-Ann Heng  
 *International Joint Conferences on Artificial Intelligence* (**IJCAI** 2018).
 
 - [Unsupervised Domain Adaptation in Brain Lesion Segmentation with Adversarial Networks](https://arxiv.org/abs/1612.08894)  
