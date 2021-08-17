@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Comprehensive summary about [Transfer Learning](https://github.com/amber0309/Domain-generalization)
+Comprehensive summary about [Transfer Learning](https://github.com/jindongwang/transferlearning)
 
 Comprehensive summary about [Domain Generalization](https://github.com/amber0309/Domain-generalization)
 
