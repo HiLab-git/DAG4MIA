@@ -11,6 +11,10 @@ Comprehensive summary about [Domain Generalization](https://github.com/amber0309
 ## Medical Image Segmentation
 
 ### Domain Adaptation
+- [Unsupervised Domain Adaptation for Retinal Vessel Segmentation with Adversarial Learning and Transfer Normalization](https://arxiv.org/abs/2108.01821)    
+Wei Feng, Lie Ju, Lin Wang, Kaimin Song, Xin Wang, Xin Zhao, Qingyi Tao, Zongyuan Ge  
+*arXiv preprint arXiv:2108.01821* (2021)
+
 - [Unsupervised Domain Adaptation with Variational Approximation for Cardiac Segmentation](https://ieeexplore.ieee.org/abstract/document/9459711/)  
 [[code](https://github.com/FupingWu90/VarDA)] / [[data](https://github.com/FupingWu90/VarDA)]  
 Fuping Wu, Xiahai Zhuang  
