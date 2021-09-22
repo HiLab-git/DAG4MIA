@@ -1,4 +1,13 @@
 ### Domain Generalization
+- [Domain and Content Adaptive Convolution for Domain Generalization in Medical Image Segmentation](https://arxiv.org/abs/2109.05676)   
+Shishuai Hu, Zehui Liao, Jianpeng Zhang, Yong Xia   
+*arXiv preprint arXiv:2109.05676* (2021)
+
+- [Domain Composition and Attention for Unseen-Domain Generalizable Medical Image Segmentation](https://arxiv.org/abs/2109.08852)  
+Ran Gu, Jingyang Zhang, Rui Huang, Wenhui Lei, Guotai Wang, Shaoting Zhang  
+[[code](https://github.com/HiLab-git/DCA-Net)] / [[data](https://liuquande.github.io/SAML/)]   
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2021)
+
 - [DoFE: Domain-oriented Feature Embeddingfor Generalizable Fundus Image Segmentationon Unseen Datasets](https://ieeexplore.ieee.org/document/9163289)  
 [[code](https://github.com/emma-sjwang/Dofe)] / [[data](https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view)]  
 Shujun Wang, Lequan Yu, Kang Li, Yang Xin, Chi-Wing Fu, and Pheng-Ann Heng  
