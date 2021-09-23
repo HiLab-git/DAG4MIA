@@ -1,6 +1,8 @@
 # Review Papers for DA/DG/OOD
 
-A comprehensive summary about [Transfer Learning](https://github.com/jindongwang/transferlearning)
+A comprehensive summary about Transfer Learning are from 
+- [Jindong Wang transferlearning](https://github.com/jindongwang/transferlearning)
+- [THUML Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)
 
 A comprehensive summary about [Continual Learning](https://github.com/optimass/continual_learning_papers)
 
