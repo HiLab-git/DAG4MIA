@@ -1,4 +1,8 @@
 ### Domain Generalization
+- [HCDG: A Hierarchical Consistency Framework for Domain Generalization on Medical Image Segmentation](https://arxiv.org/abs/2109.05742)  
+Yijun Yang, Shujun Wang, Pheng-Ann Heng, Lequan Yu  
+*arXiv preprint arXiv:2109.05742* (2021)
+
 - [Domain and Content Adaptive Convolution for Domain Generalization in Medical Image Segmentation](https://arxiv.org/abs/2109.05676)   
 Shishuai Hu, Zehui Liao, Jianpeng Zhang, Yong Xia   
 *arXiv preprint arXiv:2109.05676* (2021)
