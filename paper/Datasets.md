@@ -15,4 +15,8 @@
 * The task is to detect mitotic figures (cells undergoing cell division) from histopathology images (object detection).
 * Images were scanned by 4 different scanners, 3 out of which are labeled. In total the set consists of 200 cases of breast cancer. 
 
+4, [Prostate](https://liuquande.github.io/SAML/), collected by Liu et al.
+* A well-organized multi-site dataset for prostate MRI segmentation, which contains prostate T2-weighted MRI data (with segmentation mask) collected from six different data sources out of three public datasets.
+
+5, [Fundus](https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view), collected by Wang et al. 
 # Datasets for Out-of-Distribution Detection
