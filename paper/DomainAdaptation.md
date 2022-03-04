@@ -1,5 +1,19 @@
 # Papers for Domain Adaptation
 ## Unsupervised Domain Adaptation
+- [Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge
+](https://ieeexplore.ieee.org/document/9583929)  
+[[code](https://github.com/CityU-AIM-Group/Prototypical-Graph-DA)]  
+Jie Liu, Xiaoqing Guo, Yixuan Yuan  
+*IEEE Transactions on Medical Imaging* (2022)
+
+- [Cross-Site Severity Assessment of COVID-19 From CT Images via Domain Adaptation](https://ieeexplore.ieee.org/document/9512047)   
+Geng-Xin Xu, Chen Liu, Jun Liu, Zhongxiang Ding, Feng Shi, Man Guo, Wei Zhao, Xiaoming Li, Ying Wei, Yaozong Gao, Chuan-Xian Ren, Dinggang Shen  
+*IEEE Transactions on Medical Imaging* (2022)
+
+- [Beyond Mutual Information: Generative Adversarial Network for Domain Adaptation Using Information Bottleneck Constraint](https://ieeexplore.ieee.org/document/9558836)  
+Jiawei Chen, Ziqi Zhang, Xinpeng Xie, Yuexiang Li, Tao Xu, Kai Ma, Yefeng Zheng  
+*IEEE Transactions on Medical Imaging* (2022)
+
 - [Unsupervised Domain Adaptation for Retinal Vessel Segmentation with Adversarial Learning and Transfer Normalization](https://arxiv.org/abs/2108.01821)    
 Wei Feng, Lie Ju, Lin Wang, Kaimin Song, Xin Wang, Xin Zhao, Qingyi Tao, Zongyuan Ge  
 *arXiv preprint arXiv:2108.01821* (2021)

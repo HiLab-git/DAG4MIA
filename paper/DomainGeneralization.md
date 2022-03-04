@@ -1,4 +1,8 @@
 ### Domain Generalization
+- [Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://liuquande.github.io/)  
+Quande Liu, Cheng Chen, Qi Dou, Pheng Ann Heng  
+*AAAI Conference on Artificial Intelligence* (**AAAI** 2021)
+
 - [Causality-inspired Single-source Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2111.12525)  
 Cheng Ouyang, Chen Chen, Surui Li, Zeju Li, Chen Qin, Wenjia Bai, Daniel Rueckert  
 *arXiv preprint arXiv:2111.12525* (2021)
@@ -84,6 +88,10 @@ Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker
 *Advances in Neural Information Processing Systems* (**NeurIPS** 2019)
 
 ### Multi-Site
+- [Learning With Privileged Multimodal Knowledge for Unimodal Segmentation](https://ieeexplore.ieee.org/document/9567675)  
+Cheng Chen, Qi Dou, Yueming Jin, Quande Liu, Pheng Ann Heng  
+*IEEE Transactions on Medical Imaging* (2022)
+
 - [MS-Net: Multi-Site Network for Improving Prostate Segmentation with Heterogeneous MRI Data](https://arxiv.org/abs/2002.03366)  
 [[code](https://github.com/liuquande/MS-Net)]  
 Quande Liu, Qi Dou, Lequan Yu, Pheng-Ann Heng  
