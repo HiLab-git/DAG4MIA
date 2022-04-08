@@ -6,7 +6,7 @@ Ziqi Zhou, Lei Qi, Xin Yang, Dong Ni, Yinghuan Shi
 
 - [Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)  
 Quande Liu, Cheng Chen, Qi Dou, Pheng Ann Heng  
-*AAAI Conference on Artificial Intelligence* (**AAAI** 2021)
+*AAAI Conference on Artificial Intelligence* (**AAAI** 2022)
 
 - [Causality-inspired Single-source Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2111.12525)  
 Cheng Ouyang, Chen Chen, Surui Li, Zeju Li, Chen Qin, Wenjia Bai, Daniel Rueckert  
