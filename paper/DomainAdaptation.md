@@ -61,5 +61,5 @@ Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu
 
 ## Test-Time Domain Adaptation
 - [Test-Time Adaptable Neural Networks for Robust Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841520302711)      
-Neerav Karani, Ertunc Erdil, Krishna Chaitanya, Ender Konukoglu.
+Neerav Karani, Ertunc Erdil, Krishna Chaitanya, Ender Konukoglu  
 *Medical Image Analysis* (2020)

@@ -1,5 +1,10 @@
 ### Domain Generalization
-- [Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://liuquande.github.io/)  
+- [Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/abs/2112.11177)  
+[[code](https://github.com/zzzqzhou/Dual-Normalization)]  
+Ziqi Zhou, Lei Qi, Xin Yang, Dong Ni, Yinghuan Shi  
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR** 2022)
+
+- [Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)  
 Quande Liu, Cheng Chen, Qi Dou, Pheng Ann Heng  
 *AAAI Conference on Artificial Intelligence* (**AAAI** 2021)
 
