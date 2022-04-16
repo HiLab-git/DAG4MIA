@@ -1,5 +1,10 @@
 # Papers for Domain Adaptation
 ## Unsupervised Domain Adaptation
+- [Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining](https://www.sciencedirect.com/science/article/pii/S1361841522001049)  
+[[code](https://github.com/CityU-AIM-Group/SFDA-FSM)]  
+Chen Yang, Xiaoqing Guo, Zhen Chen, Yixuan Yuan  
+*Medical Imaging Analysis* (2022)
+
 - [Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge
 ](https://ieeexplore.ieee.org/document/9583929)  
 [[code](https://github.com/CityU-AIM-Group/Prototypical-Graph-DA)]  
