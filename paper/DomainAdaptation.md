@@ -1,12 +1,19 @@
 # Papers for Domain Adaptation
 ## Unsupervised Domain Adaptation
+- [Embracing the disharmony in medical imaging: A Simple and effective framework for domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841521003546)  
+Rongguang Wang, PratikChaudhari, ChristosDavatzikos  
+*Medical Imaging Analysis* (2022)
+
+- [Domain Adaptation for Medical Image Analysis: A Survey](https://ieeexplore.ieee.org/abstract/document/9557808)  
+Hao Guan, Mingxia Liu  
+*IEEE Transactions on Biomedical Engineering* (2022)
+
 - [Source Free Domain Adaptation for Medical Image Segmentation with Fourier Style Mining](https://www.sciencedirect.com/science/article/pii/S1361841522001049)  
 [[code](https://github.com/CityU-AIM-Group/SFDA-FSM)]  
 Chen Yang, Xiaoqing Guo, Zhen Chen, Yixuan Yuan  
 *Medical Imaging Analysis* (2022)
 
-- [Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge
-](https://ieeexplore.ieee.org/document/9583929)  
+- [Graph-Based Surgical Instrument Adaptive Segmentation via Domain-Common Knowledge](https://ieeexplore.ieee.org/document/9583929)  
 [[code](https://github.com/CityU-AIM-Group/Prototypical-Graph-DA)]  
 Jie Liu, Xiaoqing Guo, Yixuan Yuan  
 *IEEE Transactions on Medical Imaging* (2022)
@@ -18,6 +25,14 @@ Geng-Xin Xu, Chen Liu, Jun Liu, Zhongxiang Ding, Feng Shi, Man Guo, Wei Zhao, Xi
 - [Beyond Mutual Information: Generative Adversarial Network for Domain Adaptation Using Information Bottleneck Constraint](https://ieeexplore.ieee.org/document/9558836)  
 Jiawei Chen, Ziqi Zhang, Xinpeng Xie, Yuexiang Li, Tao Xu, Kai Ma, Yefeng Zheng  
 *IEEE Transactions on Medical Imaging* (2022)
+
+- [Unsupervised Domain Adaptation for Small Bowel Segmentation Using Disentangled Representation](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_27)  
+Seung Yeon Shin, Sungwon Lee, Ronald M. Summers  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2021)
+
+- [A New Bidirectional Unsupervised Domain Adaptation Segmentation Framework](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_38)  
+Munan Ning, Cheng Bian, Dong Wei, Shuang Yu, Chenglang Yuan, Yaohua Wang, Yang Guo, Kai Ma, Yefeng Zheng  
+*International Conference on Information Processing in Medical Imaging* (**IPMI** 2021)
 
 - [Unsupervised Domain Adaptation for Retinal Vessel Segmentation with Adversarial Learning and Transfer Normalization](https://arxiv.org/abs/2108.01821)    
 Wei Feng, Lie Ju, Lin Wang, Kaimin Song, Xin Wang, Xin Zhao, Qingyi Tao, Zongyuan Ge  
@@ -41,6 +56,10 @@ Fuping Wu, Xiahai Zhuang
 - [Dual-Teacher: Integrating Intra-domain and Inter-domain Teachers for Annotation-Efficient Cardiac Segmentation](https://arxiv.org/abs/2007.06279)  
 [[Journal](https://arxiv.org/abs/2101.02375)] / [[code](https://github.com/kli-lalala/Dual-Teacher-)]  
 Kang Li, Shujun Wang, Lequan Yu, Pheng-Ann Heng  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2020)
+
+- [MI2GAN: Generative Adversarial Network for Medical Image Domain Adaptation Using Mutual Information Constraint](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_50)  
+Xinpeng Xie, Jiawei Chen, Yuexiang Li, Linlin Shen, Kai Ma, Yefeng Zheng  
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2020)
 
 - [Synergistic image and feature adaptation: Towards cross-modality domain adaptation for medical image segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/3874) (oral)  
