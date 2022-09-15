@@ -1,4 +1,9 @@
 ### Domain Generalization
+- [AADG: Automatic Augmentation for Domain Generalization on Retinal Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9837077/authors#authors)  
+[[code](https://github.com/CRazorback/AADG)]  
+Junyan Lyu; Yiqi Zhang; Yijin Huang; Li Lin; Pujin Cheng; Xiaoying Tang  
+*IEEE Transactions on Medical Imaging* (2022)
+
 - [Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/abs/2112.11177)  
 [[code](https://github.com/zzzqzhou/Dual-Normalization)]  
 Ziqi Zhou, Lei Qi, Xin Yang, Dong Ni, Yinghuan Shi  
