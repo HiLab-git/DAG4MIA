@@ -15,7 +15,7 @@ Follow official guidance to install [Pytorch][torch_link].
 ## [1. Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across similar Anatomical Structures](https://arxiv.org/abs/2208.08605)
 This repository provides the official code for "Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across similar Anatomical Structures".
 
-<center><img src='./picture/cscada/model.png', width='85%'></center>
+<center><img src='./picture/cscada/model.jpg', width='72%'></center>
 <center>Fig. 1. Flowchart of CS-CADA.</center>
 
 
