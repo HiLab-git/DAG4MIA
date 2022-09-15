@@ -17,6 +17,10 @@ Quande Liu, Cheng Chen, Qi Dou, Pheng Ann Heng
 Cheng Ouyang, Chen Chen, Surui Li, Zeju Li, Chen Qin, Wenjia Bai, Daniel Rueckert  
 *arXiv preprint arXiv:2111.12525* (2021)
 
+- [Mix-and-Interpolate: A Training Strategy to Deal with Source-biased Medical Data](https://ieeexplore.ieee.org/document/9568732)  
+Yuexiang Li; Jiawei Chen; Wei Dong; Yanchun Zhu; Jianrong Wu; Junfeng Xiong; Yadong Gang; Wenbo Sun; Haibo Xu; Tianyi Qian; Kai Ma; Yefeng Zheng
+*IEEE Journal of Biomedical and Health Informatics* (2021)
+
 - [HCDG: A Hierarchical Consistency Framework for Domain Generalization on Medical Image Segmentation](https://arxiv.org/abs/2109.05742)  
 Yijun Yang, Shujun Wang, Pheng-Ann Heng, Lequan Yu  
 *arXiv preprint arXiv:2109.05742* (2021)
