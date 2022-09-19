@@ -11,8 +11,8 @@ This repository will summary the Domain Adaptation (DA) and Domain Generalizatio
 
 Catalogue:
 
-1. [Datasets](./paper/Datesets.md)
+1. [Datasets](./paper/Datasets.md)
 2. [Domain Adaptation (DA)](./paper/DomainAdaptation.md)
-3. [Domain Generalization (DG)](./paper/DomainGeneralizaiton.md)
+3. [Domain Generalization (DG)](./paper/DomainGeneralization.md)
 4. [Out of Distribution (OOD)](./paper/Out-of-DistributionDetection.md)
 5. [Review Papers](./paper/ReviewPapers.md)
