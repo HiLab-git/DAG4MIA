@@ -1,5 +1,13 @@
 # Papers for Domain Adaptation
-## Unsupervised Domain Adaptation
+Catalogue:
+
+1. [Unsupervised Domain Adaptation (UDA)](#Unsupervised-Domain-Adaptation)
+2. [Semi-supervised Domain Adaptation (SDA)](#Semi-Supervised-Domain-Adaptation)
+3. [Weakly-supervised Domain Adaptation (WDA)](#Weakly-Supervised-Domain-Adaptation)
+4. [Test-time Domain Adaptation (TDA)](#Test-Time-Domain-Adaptation)
+
+
+## Unsupervised-Domain-Adaptation
 - [CyCMIS: Cycle-consistent Cross-domain Medical Image Segmentation via diverse image augmentation](https://www.sciencedirect.com/science/article/pii/S136184152100373X)  
 Runze Wang, Guoyan Zheng    
 *Medical Imaging Analysis* (2022)
@@ -84,12 +92,17 @@ Qi Dou, Cheng Ouyang, Cheng Chen, Hao Chen, Pheng-Ann Heng
 Konstantinos Kamnitsas, Christian Baumgartner, Christian Ledig, Virginia F.J. Newcombe, Joanna P. Simpson, Andrew D. Kane, David K. Menon, Aditya Nori, Antonio Criminisi, Daniel Rueckert, Ben Glocker  
 *arXiv preprint arXiv:1612.08894* (2016)
 
-## Weakly-Supervised Domain Adaptation
-
 ## Semi-Supervised Domain Adaptation
+- [Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across Similar Anatomical Structures](https://ieeexplore.ieee.org/document/9903480)  
+[[code](https://github.com/HiLab-git/DAG4MIA/tree/main/code)]  
+Ran Gu; Jingyang Zhang; Guotai Wang; Wenhui Lei; Tao Song; Xiaofan Zhang; Kang Li; Shaoting Zhang    
+*IEEE Transactions on Medical Imaging* (2022)
+
 - [SS-CADA: A Semi-Supervised Cross-Anatomy Domain Adaptation for Coronary Artery Segmentation](https://ieeexplore.ieee.org/abstract/document/9434016)      
 Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu  
 *International Symposium on Biomedical Imaging* (**ISBI** 2021)
+
+## Weakly-Supervised Domain Adaptation
 
 ## Test-Time Domain Adaptation
 - [Test-Time Adaptable Neural Networks for Robust Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841520302711)      
