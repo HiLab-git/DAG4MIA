@@ -1,4 +1,9 @@
-### Domain Generalization
+## Catalogue:
+
+1. [Domain Generalization (DG)](#Domain-Generalization)
+2. [Multi-Site (MS)](#Multi-Site)
+
+## Domain Generalization
 - [MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_15)  
 [[code](https://github.com/cherise215/MaxStyle)]  
 Chen Chen, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert   
@@ -123,7 +128,7 @@ Shahab Aslani, Vittorio Murino, Michael Dayan, Roger Tam, Diego Sona, Ghassan Ha
 Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker  
 *Advances in Neural Information Processing Systems* (**NeurIPS** 2019)
 
-### Multi-Site
+## Multi-Site
 - [Learning With Privileged Multimodal Knowledge for Unimodal Segmentation](https://ieeexplore.ieee.org/document/9567675)  
 Cheng Chen, Qi Dou, Yueming Jin, Quande Liu, Pheng Ann Heng  
 *IEEE Transactions on Medical Imaging* (2022)
