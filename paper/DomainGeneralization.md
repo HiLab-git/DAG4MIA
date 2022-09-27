@@ -1,8 +1,26 @@
 ### Domain Generalization
-- [AADG: Automatic Augmentation for Domain Generalization on Retinal Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9837077/authors#authors)  
+- [MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_15)  
+[[code](https://github.com/cherise215/MaxStyle)]  
+Chen Chen, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert   
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
+- [AADG: Automatic Augmentation for Domain Generalization on Retinal Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9837077)  
 [[code](https://github.com/CRazorback/AADG)]  
 Junyan Lyu; Yiqi Zhang; Yijin Huang; Li Lin; Pujin Cheng; Xiaoying Tang  
 *IEEE Transactions on Medical Imaging* (2022)
+
+- [DeepLesionBrain: Towards a broader deep-learning generalization for multiple sclerosis lesion segmentation](https://www.sciencedirect.com/science/article/pii/S1361841521003571?ref=cra_js_challenge&fr=RR-1)  
+Reda Abdell hKamraoui, Vinh-ThongTa, Thomas Tourdias, Boris Mansencal, José V Manjon, Pierrick Coup  
+*Medical Imaging Analysis* (2022)
+
+- [Generalizable Medical Image Segmentation via Random Amplitude Mixup and Domain-Specific Image Restoration](https://arxiv.org/abs/2208.03901)  
+Ziqi Zhou, Lei Qi, Yinghuan Shi  
+[[code](https://github.com/zzzqzhou/RAM-DSIR)]  
+*European Conference on Computer Vision* (**ECCV 2022**)
+
+- [Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.html)  
+An Xu, Wenqi Li, Pengfei Guo, Dong Yang, Holger R. Roth, Ali Hatamizadeh, Can Zhao, Daguang Xu, Heng Huang, Ziyue Xu   
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR** 2022)
 
 - [Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/abs/2112.11177)  
 [[code](https://github.com/zzzqzhou/Dual-Normalization)]  
@@ -12,6 +30,10 @@ Ziqi Zhou, Lei Qi, Xin Yang, Dong Ni, Yinghuan Shi
 - [Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)  
 Quande Liu, Cheng Chen, Qi Dou, Pheng Ann Heng  
 *AAAI Conference on Artificial Intelligence* (**AAAI** 2022)
+
+- [Semi-Supervised Domain Generalization for Medical Image Analysis](https://ieeexplore.ieee.org/abstract/document/9761561)  
+Ruipeng Zhang; Qinwei Xu; Chaoqin Huang; Ya Zhang; Yanfeng Wang    
+*International Symposium on Biomedical Imaging* (**ISBI** 2022)
 
 - [Causality-inspired Single-source Domain Generalization for Medical Image Segmentation](https://arxiv.org/abs/2111.12525)  
 Cheng Ouyang, Chen Chen, Surui Li, Zeju Li, Chen Qin, Wenjia Bai, Daniel Rueckert  

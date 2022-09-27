@@ -1,5 +1,13 @@
 # Papers for Domain Adaptation
 ## Unsupervised Domain Adaptation
+- [CyCMIS: Cycle-consistent Cross-domain Medical Image Segmentation via diverse image augmentation](https://www.sciencedirect.com/science/article/pii/S136184152100373X)  
+Runze Wang, Guoyan Zheng    
+*Medical Imaging Analysis* (2022)
+
+- [Domain generalization on medical imaging classification using episodic training with task augmentation](https://www.sciencedirect.com/science/article/pii/S0010482521009380)  
+Chenxin Li, Xin Lin, Yijin Mao, Wei Lin, Qi Qi, Xinghao Ding, Yue Huang, Dong Liang, Yizhou Yu  
+*Computers in Biology and Medicine* (2022)
+
 - [Embracing the disharmony in medical imaging: A Simple and effective framework for domain adaptation](https://www.sciencedirect.com/science/article/pii/S1361841521003546)  
 Rongguang Wang, PratikChaudhari, ChristosDavatzikos  
 *Medical Imaging Analysis* (2022)
