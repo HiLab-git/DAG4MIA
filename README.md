@@ -7,7 +7,7 @@ This repository will offer some projects of our conducted works.
 2022.9.15 We released the project of our proposed semi-supervised based DA method [CS-CADA](https://arxiv.org/abs/2208.08605).
 
 ## Paper
-This repository will summary the Domain Adaptation (DA) and Domain Generalization (DG) methods applied in Medical Image Analysis.
+This repository will summary and update Domain Adaptation (DA) and Domain Generalization (DG) related works applied in Medical Image Analysis.
 
 Catalogue:
 
