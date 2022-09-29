@@ -2,8 +2,8 @@
 Domain Adaptation and Generalization for Medical Image Analysis
 
 ## Code
-This repository will offer some projects of our conducted works.
-
+This repository will offer some projects of our conducted works.  
+2022.9.28 Our propsoed Contrastive Semi-supervised Learning based DA method (CS-CADA) was accepted by IEEE TMI. The early access version now is available at [TMI](https://ieeexplore.ieee.org/document/9903480)  
 2022.9.15 We released the project of our proposed semi-supervised based DA method [CS-CADA](https://arxiv.org/abs/2208.08605).
 
 ## Paper
