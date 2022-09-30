@@ -66,7 +66,7 @@ Chenhao Pei, Fuping Wu, Liqin Huang, Xiahai Zhuang
 
 - [Rethinking adversarial domain adaptation: Orthogonal decomposition for unsupervised domain adaptation in medical image segmentation](https://doi.org/10.1016/j.media.2022.102623)   
 [[code](https://github.com/YonghengSun1997/ODADA)]    
-Yongheng Sun, Duwei Dai, Songhua Xu 
+Yongheng Sun, Duwei Dai, Songhua Xu  
 *Medical Image Analysis* (2022)
 
 - [CF Distance: A New Domain Discrepancy Metric and Application to Explicit Domain Adaptation for Cross-Modality Cardiac Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9165963)  
