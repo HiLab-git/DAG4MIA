@@ -8,6 +8,15 @@
 
 
 ## Unsupervised-Domain-Adaptation
+- [Domain Specific Convolution and High Frequency Reconstruction Based Unsupervised Domain Adaptation for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_62)  
+[[code](https://github.com/ShishuaiHu/DoCR)]  
+Shishuai Hu, Zehui Liao, Yong Xia  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
+- [Unsupervised Domain Adaptation for Medical Image Segmentation by Disentanglement Learning and Self-Training](https://ieeexplore.ieee.org/abstract/document/9832940)  
+Qingsong Xie, Yuexiang Li, Nanjun He, Munan Ning, Kai Ma, Guoxing Wang, Yong Lian, and Yefeng Zheng  
+*IEEE Transactions on Medical Imaging* (2022)
+
 - [CyCMIS: Cycle-consistent Cross-domain Medical Image Segmentation via diverse image augmentation](https://www.sciencedirect.com/science/article/pii/S136184152100373X)  
 Runze Wang, Guoyan Zheng    
 *Medical Imaging Analysis* (2022)

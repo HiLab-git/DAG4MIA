@@ -4,6 +4,10 @@
 2. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [Generalizable Pancreas Segmentation Modeling in CT Imaging via Meta-learning and Latent-space Feature Flow Generation](https://ieeexplore.ieee.org/abstract/document/9894672)  
+Jun Li, Tao Chen, Xiaohua Qian  
+*IEEE Journal of Biomedical and Health Informatics* (2022)
+
 - [MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_15)  
 [[code](https://github.com/cherise215/MaxStyle)]  
 Chen Chen, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert   
