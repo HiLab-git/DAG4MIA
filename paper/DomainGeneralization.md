@@ -1,7 +1,8 @@
 ## Catalogue:
 
 1. [Domain Generalization (DG)](#Domain-Generalization)
-2. [Multi-Site (MS)](#Multi-Site)
+2. [Life-long learning](#)
+3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
 - [Generalizable Pancreas Segmentation Modeling in CT Imaging via Meta-learning and Latent-space Feature Flow Generation](https://ieeexplore.ieee.org/abstract/document/9894672)  
@@ -132,6 +133,15 @@ Shahab Aslani, Vittorio Murino, Michael Dayan, Roger Tam, Diego Sona, Ghassan Ha
 Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker  
 *Advances in Neural Information Processing Systems* (**NeurIPS** 2019)
 
+**[⬆ back to top](#Catalogue)**
+
+## Life-long learning
+- [Domain-incremental Cardiac Image Segmentation with Style-oriented Replay and Domain-sensitive Feature Whitening](https://ieeexplore.ieee.org/abstract/document/9908146)  
+Kang Li, Lequan Yu, and Pheng-Ann Heng  
+*IEEE Transactions on Medical Imaging* (2022)
+
+**[⬆ back to top](#Catalogue)**
+
 ## Multi-Site
 - [Learning With Privileged Multimodal Knowledge for Unimodal Segmentation](https://ieeexplore.ieee.org/document/9567675)  
 Cheng Chen, Qi Dou, Yueming Jin, Quande Liu, Pheng Ann Heng  
@@ -146,3 +156,5 @@ Quande Liu, Qi Dou, Lequan Yu, Pheng-Ann Heng
 [[code](https://github.com/carrenD/ummkd)]  
 Qi Dou, Quande Liu, Pheng-Ann Heng, Ben Glocker  
 *IEEE Transactions on Medical Imaging* (2020)
+
+**[⬆ back to top](#Catalogue)**

@@ -63,6 +63,11 @@ Munan Ning, Cheng Bian, Dong Wei, Shuang Yu, Chenglang Yuan, Yaohua Wang, Yang G
 Wei Feng, Lie Ju, Lin Wang, Kaimin Song, Xin Wang, Xin Zhao, Qingyi Tao, Zongyuan Ge  
 *arXiv preprint arXiv:2108.01821* (2021)
 
+- [Deep Symmetric Adaptation Network for Cross-Modality Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9514499)  
+[[code](https://github.com/ting2696/Deep-Symmetric-Adaptation-Network)]  
+Xiaoting Han, Lei Qi, Qian Yu, Ziqi Zhou, Yefeng Zheng, Yinghuan Shi, Yang Gao
+*IEEE Transactions on Medical Imaging* (2021)  
+
 - [Unsupervised Domain Adaptation with Variational Approximation for Cardiac Segmentation](https://ieeexplore.ieee.org/abstract/document/9459711/)  
 [[code](https://github.com/FupingWu90/VarDA)] / [[data](https://github.com/FupingWu90/VarDA)]  
 Fuping Wu, Xiahai Zhuang  
@@ -106,6 +111,8 @@ Qi Dou, Cheng Ouyang, Cheng Chen, Hao Chen, Pheng-Ann Heng
 Konstantinos Kamnitsas, Christian Baumgartner, Christian Ledig, Virginia F.J. Newcombe, Joanna P. Simpson, Andrew D. Kane, David K. Menon, Aditya Nori, Antonio Criminisi, Daniel Rueckert, Ben Glocker  
 *arXiv preprint arXiv:1612.08894* (2016)
 
+**[⬆ back to top](#Catalogue)**
+
 ## Semi-Supervised Domain Adaptation
 - [Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across Similar Anatomical Structures](https://ieeexplore.ieee.org/document/9903480)  
 [[code](https://github.com/HiLab-git/DAG4MIA/tree/main/code)]  
@@ -116,9 +123,15 @@ Ran Gu; Jingyang Zhang; Guotai Wang; Wenhui Lei; Tao Song; Xiaofan Zhang; Kang L
 Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu  
 *International Symposium on Biomedical Imaging* (**ISBI** 2021)
 
+**[⬆ back to top](#Catalogue)**
+
 ## Weakly-Supervised Domain Adaptation
+
+**[⬆ back to top](#Catalogue)**
 
 ## Test-Time Domain Adaptation
 - [Test-Time Adaptable Neural Networks for Robust Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841520302711)      
 Neerav Karani, Ertunc Erdil, Krishna Chaitanya, Ender Konukoglu  
 *Medical Image Analysis* (2020)
+
+**[⬆ back to top](#Catalogue)**
