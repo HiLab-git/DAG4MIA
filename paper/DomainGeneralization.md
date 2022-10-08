@@ -1,7 +1,7 @@
 ## Catalogue:
 
 1. [Domain Generalization (DG)](#Domain-Generalization)
-2. [Life-long learning](#Life-long-learning)
+2. [Life-long Learning](#Life-long-Learning)
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
@@ -135,7 +135,7 @@ Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker
 
 **[⬆ back to top](#Catalogue)**
 
-## Life-long learning
+## Life-long Learning
 - [Domain-incremental Cardiac Image Segmentation with Style-oriented Replay and Domain-sensitive Feature Whitening](https://ieeexplore.ieee.org/abstract/document/9908146)  
 Kang Li, Lequan Yu, and Pheng-Ann Heng  
 *IEEE Transactions on Medical Imaging* (2022)
