@@ -1,7 +1,7 @@
 ## Catalogue:
 
 1. [Domain Generalization (DG)](#Domain-Generalization)
-2. [Life-long learning](#)
+2. [Life-long learning](#Life-long-learning)
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
