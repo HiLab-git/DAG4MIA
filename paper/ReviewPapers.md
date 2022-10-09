@@ -1,4 +1,7 @@
 # Review Papers for DA/DG/OOD
+- [Domain Adaptation for Medical Image Analysis: A Survey](https://ieeexplore.ieee.org/document/9557808?denied=)  
+Hao Guan, Mingxia Liu  
+*IEEE Transactions on Biomedical Engineering* (2022)
 
 A comprehensive summary about Transfer Learning are from 
 - [Jindong Wang transferlearning](https://github.com/jindongwang/transferlearning)

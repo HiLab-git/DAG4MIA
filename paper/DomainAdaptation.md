@@ -8,6 +8,15 @@
 
 
 ## Unsupervised-Domain-Adaptation
+- [Attention-Enhanced Disentangled Representation Learning for Unsupervised Domain Adaptation in Cardiac Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_71)  
+[[code](https://github.com/Sunxy11/ADR)]  
+Xiaoyi Sun, Zhizhe Liu, Shuai Zheng, Chen Lin, Zhenfeng Zhu, Yao Zhao  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
+- [Delving into Local Features for Open-Set Domain Adaptation in Fundus Image Analysis](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_65)  
+Yi Zhou, Shaochen Bai, Tao Zhou, Yu Zhang, Huazhu Fu  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
 - [Domain Specific Convolution and High Frequency Reconstruction Based Unsupervised Domain Adaptation for Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_62)  
 [[code](https://github.com/ShishuaiHu/DoCR)]  
 Shishuai Hu, Zehui Liao, Yong Xia  
@@ -130,6 +139,27 @@ Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu
 **[⬆ back to top](#Catalogue)**
 
 ## Test-Time Domain Adaptation
+- [Denoising for Relaxing: Unsupervised Domain Adaptive Fundus Image Segmentation Without Source Data](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_21)  
+Zhe Xu, Donghuan Lu, Yixin Wang, Jie Luo, Dong Wei, Yefeng Zheng, Raymond Kai-yu Tong  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
+
+- [Test-Time Adaptation with Shape Moments for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_70)
+[[code](https://github.com/mathilde-b/TTA)]  
+Mathilde Bateson, Hervé Lombaert, Ismail Ben Ayed  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
+- [Source-free domain adaptation for image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522002456)  
+[[code](https://github.com/mathilde-b/SFDA)]  
+Mathilde Bateson, Hoel Kervadec, Jose Dolz, Hervé Lombaert, Ismail Ben Ayed  
+*Medical Image Analysis* (2022)
+
+- [Source free domain adaptation for medical image segmentation with fourier style mining](https://www.sciencedirect.com/science/article/pii/S1361841522001049)  
+[[code](https://github.com/CityU-AIM-Group/SFDA-FSM)]
+Chen Yang, Xiaoqing Guo, Zhen Chen, Yixuan Yuan  
+*Medical Image Analysis* (2022)
+
+
 - [Test-Time Adaptable Neural Networks for Robust Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841520302711)      
 Neerav Karani, Ertunc Erdil, Krishna Chaitanya, Ender Konukoglu  
 *Medical Image Analysis* (2020)
