@@ -8,6 +8,10 @@
 
 
 ## Unsupervised-Domain-Adaptation
+-[Unsupervised Cross-disease Domain Adaptation by Lesion Scale Matching](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_63)  
+Jun Gao, Qicheng Lao, Qingbo Kang, Paul Liu, Le Zhang, Kang Li  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
 - [Attention-Enhanced Disentangled Representation Learning for Unsupervised Domain Adaptation in Cardiac Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_71)  
 [[code](https://github.com/Sunxy11/ADR)]  
 Xiaoyi Sun, Zhizhe Liu, Shuai Zheng, Chen Lin, Zhenfeng Zhu, Yao Zhao  
