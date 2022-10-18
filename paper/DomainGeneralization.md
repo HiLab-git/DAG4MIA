@@ -5,9 +5,18 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [Domain generalization for prostate segmentation in transrectal ultrasound images: A multi-center study](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002481)  
+Sulaiman Vesal, Iani Gayo, Indrani Bhattacharya, Shyam Natarajan, Leonard S.Marks, Dean C Barratt, Richard E.Fan, Yipeng Hu, Geoffrey A.Sonn, Mirabela Rusu  
+*Medical Imaging Analysis* (2022)  
+
 - [Generalizable Pancreas Segmentation Modeling in CT Imaging via Meta-learning and Latent-space Feature Flow Generation](https://ieeexplore.ieee.org/abstract/document/9894672)  
 Jun Li, Tao Chen, Xiaohua Qian  
 *IEEE Journal of Biomedical and Health Informatics* (2022)
+
+- [vMFNet: Compositionality Meets Domain-Generalised Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_67)  
+[[code](https://github.com/vios-s/vMFNet)]  
+Xiao Liu, Spyridon Thermos, Pedro Sanchez, Alison Q. O’Neil, Sotirios A. Tsaftaris  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
 
 - [MaxStyle: Adversarial Style Composition for Robust Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_15)  
 [[code](https://github.com/cherise215/MaxStyle)]  
