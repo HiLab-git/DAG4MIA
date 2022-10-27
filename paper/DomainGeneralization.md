@@ -13,6 +13,10 @@ Sulaiman Vesal, Iani Gayo, Indrani Bhattacharya, Shyam Natarajan, Leonard S.Mark
 Jun Li, Tao Chen, Xiaohua Qian  
 *IEEE Journal of Biomedical and Health Informatics* (2022)
 
+- [Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_64)  
+Yanwu Xu, Shaoan Xie, Maxwell Reynolds, Matthew Ragoza, Mingming Gong, Kayhan Batmanghelich  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
+
 - [vMFNet: Compositionality Meets Domain-Generalised Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_67)  
 [[code](https://github.com/vios-s/vMFNet)]  
 Xiao Liu, Spyridon Thermos, Pedro Sanchez, Alison Q. O’Neil, Sotirios A. Tsaftaris  

@@ -143,6 +143,11 @@ Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu
 **[⬆ back to top](#Catalogue)**
 
 ## Test-Time Domain Adaptation
+- [Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_30)  
+[[code](https://github.com/med-air/TTADC)]  
+Wenao Ma, Cheng Chen, Shuang Zheng, Jing Qin, Huimao Zhang, Qi Dou  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)  
+
 - [Denoising for Relaxing: Unsupervised Domain Adaptive Fundus Image Segmentation Without Source Data](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_21)  
 Zhe Xu, Donghuan Lu, Yixin Wang, Jie Luo, Dong Wei, Yefeng Zheng, Raymond Kai-yu Tong  
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
@@ -159,7 +164,7 @@ Mathilde Bateson, Hoel Kervadec, Jose Dolz, Hervé Lombaert, Ismail Ben Ayed
 *Medical Image Analysis* (2022)
 
 - [Source free domain adaptation for medical image segmentation with fourier style mining](https://www.sciencedirect.com/science/article/pii/S1361841522001049)  
-[[code](https://github.com/CityU-AIM-Group/SFDA-FSM)]
+[[code](https://github.com/CityU-AIM-Group/SFDA-FSM)]  
 Chen Yang, Xiaoqing Guo, Zhen Chen, Yixuan Yuan  
 *Medical Image Analysis* (2022)
 
