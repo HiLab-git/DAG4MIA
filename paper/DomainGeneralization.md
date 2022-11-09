@@ -5,6 +5,10 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [Enhancing MR image segmentation with realistic adversarial data augmentation](https://www.sciencedirect.com/science/article/pii/S1361841522002304)  
+Chen Chen, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Rueckert Daniel  
+*Medical Imaging Analysis* (2022)
+
 - [Domain generalization for prostate segmentation in transrectal ultrasound images: A multi-center study](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002481)  
 Sulaiman Vesal, Iani Gayo, Indrani Bhattacharya, Shyam Natarajan, Leonard S.Marks, Dean C Barratt, Richard E.Fan, Yipeng Hu, Geoffrey A.Sonn, Mirabela Rusu  
 *Medical Imaging Analysis* (2022)  
