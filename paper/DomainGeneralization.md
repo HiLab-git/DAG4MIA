@@ -6,7 +6,7 @@
 
 ## Domain Generalization
 - [Enhancing MR image segmentation with realistic adversarial data augmentation](https://www.sciencedirect.com/science/article/pii/S1361841522002304)  
-Chen Chen, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Rueckert Daniel  
+Chen Chen, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert  
 *Medical Imaging Analysis* (2022)
 
 - [Domain generalization for prostate segmentation in transrectal ultrasound images: A multi-center study](https://www.sciencedirect.com/science/article/abs/pii/S1361841522002481)  
