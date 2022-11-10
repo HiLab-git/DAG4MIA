@@ -8,7 +8,11 @@
 
 
 ## Unsupervised-Domain-Adaptation
--[Unsupervised Cross-disease Domain Adaptation by Lesion Scale Matching](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_63)  
+- [LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/document/9919170/authors#authors)  
+Ziyuan Zhao, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou
+*IEEE Transactions on Medical Imaging* (2022)
+
+- [Unsupervised Cross-disease Domain Adaptation by Lesion Scale Matching](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_63)  
 Jun Gao, Qicheng Lao, Qingbo Kang, Paul Liu, Le Zhang, Kang Li  
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
 
