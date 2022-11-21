@@ -5,9 +5,13 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [Improving Generalization by Learning Geometry-Dependent and Physics-Based Reconstruction of Image Sequences](https://ieeexplore.ieee.org/document/9932432)  
+Xiajun Jiang, Maryam Toloubidokhti, Jake Bergquist, Brian Zenger, Wilson W Good, Rob S MacLeod, Linwei Wang  
+*IEEE Transactions on Instrumentation and Measurement* (2022)
+
 - [TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network](https://ieeexplore.ieee.org/abstract/document/9940997/keywords#keywords)  
 Yurong Chen, Hui Zhang, Yaonan Wang, Lizhu Liu, Q. M. Jonathan Wu;, Yimin Yang  
- *IEEE Transactions on Instrumentation and Measurement* (2022)
+*IEEE Transactions on Instrumentation and Measurement* (2022)
 
 - [Enhancing MR image segmentation with realistic adversarial data augmentation](https://www.sciencedirect.com/science/article/pii/S1361841522002304)  
 Chen Chen, Chen Qin, Cheng Ouyang, Zeju Li, Shuo Wang, Huaqi Qiu, Liang Chen, Giacomo Tarroni, Wenjia Bai, Daniel Rueckert  
