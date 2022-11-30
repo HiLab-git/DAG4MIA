@@ -127,9 +127,9 @@ class UpCatconv(nn.Module):
                                    num_domain=num_domain)
             self.up = nn.Upsample(scale_factor=2, mode='bilinear')
 
-    def forward(self, down_outputs, domain_label):
+    def forward(self, inputs, down_outputs, domain_label):
         outputs = self.up(down_outputs)
-        out = self.conv(outputs, domain_label)
+        out = self.conv(torch.cat([inputs, outputs], dim=1), domain_label)
 
         return out
 
