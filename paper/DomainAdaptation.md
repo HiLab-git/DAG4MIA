@@ -147,6 +147,11 @@ Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu
 **[⬆ back to top](#Catalogue)**
 
 ## Test-Time Domain Adaptation
+- [ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical
+Image Segmentation](https://arxiv.org/abs/2211.11514)  
+Shishuai Hu, Zehui Liao, Yong Xia  
+*arXiv preprint arXiv:2211.11514* (2022)
+
 - [Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift](https://link.springer.com/chapter/10.1007/978-3-031-16437-8_30)  
 [[code](https://github.com/med-air/TTADC)]  
 Wenao Ma, Cheng Chen, Shuang Zheng, Jing Qin, Huimao Zhang, Qi Dou  
