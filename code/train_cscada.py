@@ -139,7 +139,7 @@ def train(model:nn.Module, ema_model:nn.Module, loader_train_s:list,
             predouts, high_r_s_sb  = model(image_s, domain_label=0)
             predoutt, high_r_t_tb  = model(image_t, domain_label=1)
             _, high_r_s_tb = model(image_s, domain_label=1)
-            _, high_r_t_sb = model(image_s, domain_label=0)
+            _, high_r_t_sb = model(image_t, domain_label=0)
 
             with torch.no_grad():
                 ema_output, _ = ema_model(ema_inputs_t, domain_label=1)
