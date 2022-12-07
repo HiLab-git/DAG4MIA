@@ -5,7 +5,7 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
-- [Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation]()  
+- [Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation](https://arxiv.org/abs/2211.15235)  
 Shaolei Liu, Siqi Yin, Linhao Qu, Manning Wang  
 *AAAI Conference on Artificial Intelligence* (**AAAI** 2023)  
 
