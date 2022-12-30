@@ -8,8 +8,12 @@
 
 
 ## Unsupervised-Domain-Adaptation
+- [Domain Adapted Multitask Learning for Segmenting Amoeboid Cells in Microscopy](https://ieeexplore.ieee.org/document/9870864)  
+Suvadip Mukherjee, Rituparna Sarkar, Maria Manich, Elisabeth Labruyère, Jean-Christophe Olivo-Marin  
+*IEEE Transactions on Medical Imaging* (2022)
+
 - [LE-UDA: Label-efficient unsupervised domain adaptation for medical image segmentation](https://ieeexplore.ieee.org/document/9919170/authors#authors)  
-Ziyuan Zhao, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou
+Ziyuan Zhao, Fangcheng Zhou, Kaixin Xu, Zeng Zeng, Cuntai Guan, S. Kevin Zhou  
 *IEEE Transactions on Medical Imaging* (2022)
 
 - [Unsupervised Cross-disease Domain Adaptation by Lesion Scale Matching](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_63)  
@@ -35,7 +39,7 @@ Qingsong Xie, Yuexiang Li, Nanjun He, Munan Ning, Kai Ma, Guoxing Wang, Yong Lia
 *IEEE Transactions on Medical Imaging* (2022)
 
 - [CyCMIS: Cycle-consistent Cross-domain Medical Image Segmentation via diverse image augmentation](https://www.sciencedirect.com/science/article/pii/S136184152100373X)  
-Runze Wang, Guoyan Zheng    
+Runze Wang, Guoyan Zheng  
 *Medical Imaging Analysis* (2022)
 
 - [Domain generalization on medical imaging classification using episodic training with task augmentation](https://www.sciencedirect.com/science/article/pii/S0010482521009380)  
