@@ -13,9 +13,9 @@ Follow official guidance to install [Pytorch][torch_link].
 
 
 ## 1. Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across similar Anatomical Structures
-This repository provides the official code for "[Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across similar Anatomical Structures][paper_link]".
+This repository provides the official code for "[Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across similar Anatomical Structures][paper1_link]".
 
-[paper_link]:https://arxiv.org/abs/2208.08605
+[paper1_link]:https://ieeexplore.ieee.org/abstract/document/9903480
 
 <center><img src='./picture/cscada/model.jpg', width='72%'></center>
 <center>Fig. 1. Flowchart of CS-CADA.</center>
@@ -35,7 +35,7 @@ python train_cscada.py
 
 3. To evaluate the trained model in CMR images for Left Ventricle (LV) and left ventricular Myocardium (Myo) segmentaiton, run:
 ```
-python test_mscmrseg.py
+python test_cscada_mscmrseg.py
 ```
 ### Citation
 If this project is helpful for your research, please cite the following works:
@@ -43,8 +43,12 @@ If this project is helpful for your research, please cite the following works:
 @article{gu2022contrastive,
   title={Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across Similar Anatomical Structures},
   author={Gu, Ran and Zhang, Jingyang and Wang, Guotai and Lei, Wenhui and Song, Tao and Zhang, Xiaofan and Li, Kang and Zhang, Shaoting},
-  journal={arXiv preprint arXiv:2208.08605},
-  year={2022}
+  journal={IEEE Transactions on Medical Imaging},
+  volume={42},
+  number={1},
+  pages={245--256},
+  year={2023},
+  publisher={IEEE}
 }
 @inproceedings{zhang2021ss,
   title={SS-CADA: A semi-supervised cross-anatomy domain adaptation for coronary artery segmentation},
@@ -60,3 +64,51 @@ If this project is helpful for your research, please cite the following works:
 Part of the code is revised from [UA-MT][uamt].
 
 [uamt]:https://github.com/yulequan/UA-MT
+
+## 2. CDDSA: Contrastive Domain Disentanglement and Style Augmentation for Generalizable Medical Image Segmentation
+This repository provides the official code for "[CDDSA: Contrastive Domain Disentanglement and Style Augmentation for Generalizable Medical Image Segmentation][paper2_link]". We first released our train and test codes.
+
+[paper2_link]:https://arxiv.org/abs/2211.12081
+
+<center><img src='./picture/cddsa/model.jpg', width='92%'></center>
+<center>Fig. 1. Flowchart of CDDSA.</center>
+
+### Usages
+#### For fundus image segmentation
+1. First, you should download the fundus dataset collected by Shujun Wang et al at [DoFE project][data3_link]. We referenced the dataloader from this project and followed their training settings. 
+
+[data3_link]:https://drive.google.com/file/d/1p33nsWQaiZMAgsruDoJLyatoq5XAH-TH/view
+
+2. To train CDDSA in fundus image segmentation, run:
+```
+python train_cddsa.py
+```
+
+3. To evaluate the trained model in other domain for Optic Cup (OC) and Disc (OD) segmentaiton, run:
+```
+python test_cddsa_fundus.py
+```
+
+### Citation
+If this project is helpful for your research, please cite the following works:
+```
+@article{gu2022cddsa,
+  title={CDDSA: Contrastive Domain Disentanglement and Style Augmentation for Generalizable Medical Image Segmentation},
+  author={Gu, Ran and Wang, Guotai and Lu, Jiangshan and Zhang, Jingyang and Lei, Wenhui and Chen, Yinan and Liao, Wenjun and Zhang, Shichuan and Li, Kang and Metaxas, Dimitris N and others},
+  journal={arXiv preprint arXiv:2211.12081},
+  year={2022}
+}
+@inproceedings{gu2021domain,
+  title={Domain Composition and Attention for Unseen-Domain Generalizable Medical Image Segmentation},
+  author={Gu, Ran and Zhang, Jingyang and Huang, Rui and Lei, Wenhui and Wang, Guotai and Zhang, Shaoting},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={241--250},
+  year={2021},
+  organization={Springer}
+}
+```
+
+### Acknowledgement
+Part of the code is revised from [DoFE][dofe].
+
+[dofe]:https://github.com/emma-sjwang/Dofe
