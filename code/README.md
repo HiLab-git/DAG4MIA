@@ -70,7 +70,7 @@ This repository provides the official code for "[CDDSA: Contrastive Domain Disen
 
 [paper2_link]:https://arxiv.org/abs/2211.12081
 
-<center><img src='./picture/cddsa/model.jpg', width='92%'></center>
+<center><img src='./picture/cddsa/model.jpg', width='86%'></center>
 <center>Fig. 1. Flowchart of CDDSA.</center>
 
 ### Usages
