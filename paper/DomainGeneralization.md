@@ -63,7 +63,7 @@ Ziqi Zhou, Lei Qi, Yinghuan Shi
 *European Conference on Computer Vision* (**ECCV 2022**)
 
 - [Closing the Generalization Gap of Cross-silo Federated Medical Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Closing_the_Generalization_Gap_of_Cross-Silo_Federated_Medical_Image_Segmentation_CVPR_2022_paper.html)  
-An Xu, Wenqi Li, Pengfei Guo, Dong Yang, Holger R. Roth, Ali Hatamizadeh, Can Zhao, Daguang Xu, Heng Huang, Ziyue Xu   
+An Xu, Wenqi Li, Pengfei Guo, Dong Yang, Holger R. Roth, Ali Hatamizadeh, Can Zhao, Daguang Xu, Heng Huang, Ziyue Xu  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR** 2022)
 
 - [Generalizable Cross-modality Medical Image Segmentation via Style Augmentation and Dual Normalization](https://arxiv.org/abs/2112.11177)  

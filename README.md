@@ -4,6 +4,8 @@ Domain Adaptation and Generalization for Medical Image Analysis
 ## Code
 This repository will offer some projects of our conducted works.  
 
+2023.01.04 We released the project of our proposed GAN-free disentanglement network based DG method (CDDSA).
+
 2022.11.23 Our proposed GAN-free disentanglement network based DG method (CDDSA) is accessible at [Arxiv](https://arxiv.org/abs/2211.12081).
 
 2022.9.28 Our propsoed Contrastive Semi-supervised Learning based DA method (CS-CADA) was accepted by IEEE TMI. The early access version now is available at [TMI](https://ieeexplore.ieee.org/document/9903480)  

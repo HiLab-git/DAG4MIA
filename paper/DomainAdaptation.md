@@ -151,6 +151,11 @@ Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu
 **[⬆ back to top](#Catalogue)**
 
 ## Test-Time Domain Adaptation
+- [Autoencoder based self-supervised test-time adaptation for medical image analysis](https://www.sciencedirect.com/science/article/pii/S1361841521001821)  
+Yufan He, Aaron Carass, Lianrui Zuo, Blake E.Dewey, Jerry L.Princea  
+[[code](https://github.com/YufanHe/self-domain-adapted-network)]  
+*Medical Image Analysis* (2022)
+
 - [ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical
 Image Segmentation](https://arxiv.org/abs/2211.11514)  
 Shishuai Hu, Zehui Liao, Yong Xia  
