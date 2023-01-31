@@ -8,6 +8,10 @@
 
 
 ## Unsupervised-Domain-Adaptation
+- [Unsupervised Cross-modality Adaptation via Dual Structural-Oriented Guidance for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10021672)  
+Junlin Xian, Xiang Li, Dandan Tu, Senhua Zhu, Changzheng Zhang, Xiaowu Liu, Xin Li, Xin Yang  
+*IEEE Transactions on Medical Imaging* (2023)
+
 - [Domain Adapted Multitask Learning for Segmenting Amoeboid Cells in Microscopy](https://ieeexplore.ieee.org/document/9870864)  
 Suvadip Mukherjee, Rituparna Sarkar, Maria Manich, Elisabeth Labruyère, Jean-Christophe Olivo-Marin  
 *IEEE Transactions on Medical Imaging* (2022)
@@ -71,6 +75,10 @@ Geng-Xin Xu, Chen Liu, Jun Liu, Zhongxiang Ding, Feng Shi, Man Guo, Wei Zhao, Xi
 - [Beyond Mutual Information: Generative Adversarial Network for Domain Adaptation Using Information Bottleneck Constraint](https://ieeexplore.ieee.org/document/9558836)  
 Jiawei Chen, Ziqi Zhang, Xinpeng Xie, Yuexiang Li, Tao Xu, Kai Ma, Yefeng Zheng  
 *IEEE Transactions on Medical Imaging* (2022)
+
+- [Structure-Driven Unsupervised Domain Adaptation for Cross-Modality Cardiac Segmentation](https://ieeexplore.ieee.org/document/9463875)  
+Zhiming Cui, Changjian Li, Zhixu Du, Nenglun Chen, Guodong Wei, Runnan Chen, Lei Yang, Dinggang, Wenping Wang  
+*IEEE Transactions on Medical Imaging* (2021)
 
 - [Unsupervised Domain Adaptation for Small Bowel Segmentation Using Disentangled Representation](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_27)  
 Seung Yeon Shin, Sungwon Lee, Ronald M. Summers  
@@ -137,7 +145,7 @@ Konstantinos Kamnitsas, Christian Baumgartner, Christian Ledig, Virginia F.J. Ne
 ## Semi-Supervised Domain Adaptation
 - [Contrastive Semi-supervised Learning for Domain Adaptive Segmentation Across Similar Anatomical Structures](https://ieeexplore.ieee.org/document/9903480)  
 [[code](https://github.com/HiLab-git/DAG4MIA/tree/main/code)]  
-Ran Gu; Jingyang Zhang; Guotai Wang; Wenhui Lei; Tao Song; Xiaofan Zhang; Kang Li; Shaoting Zhang    
+Ran Gu, Jingyang Zhang, Guotai Wang, Wenhui Lei, Tao Song, Xiaofan Zhang, Kang Li, Shaoting Zhang    
 *IEEE Transactions on Medical Imaging* (2022)
 
 - [SS-CADA: A Semi-Supervised Cross-Anatomy Domain Adaptation for Coronary Artery Segmentation](https://ieeexplore.ieee.org/abstract/document/9434016)      
@@ -170,7 +178,6 @@ Wenao Ma, Cheng Chen, Shuang Zheng, Jing Qin, Huimao Zhang, Qi Dou
 Zhe Xu, Donghuan Lu, Yixin Wang, Jie Luo, Dong Wei, Yefeng Zheng, Raymond Kai-yu Tong  
 *International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
 
-
 - [Test-Time Adaptation with Shape Moments for Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_70)
 [[code](https://github.com/mathilde-b/TTA)]  
 Mathilde Bateson, Hervé Lombaert, Ismail Ben Ayed  
@@ -186,6 +193,10 @@ Mathilde Bateson, Hoel Kervadec, Jose Dolz, Hervé Lombaert, Ismail Ben Ayed
 Chen Yang, Xiaoqing Guo, Zhen Chen, Yixuan Yuan  
 *Medical Image Analysis* (2022)
 
+- [Source-Free Domain Adaptive Fundus Image Segmentation with Denoised Pseudo-Labeling](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_22)  
+[[code](https://github.com/cchen-cc/SFDA-DPL)]  
+Cheng Chen, Quande Liu, Yueming Jin, Qi Dou & Pheng-Ann Heng  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2021)
 
 - [Test-Time Adaptable Neural Networks for Robust Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841520302711)      
 Neerav Karani, Ertunc Erdil, Krishna Chaitanya, Ender Konukoglu  

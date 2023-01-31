@@ -5,6 +5,10 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [Region-focused multi-view transformer-based generative adversarial network for cardiac cine MRI reconstruction](https://www.sciencedirect.com/science/article/pii/S136184152300021X)  
+Jun Lyu, Guangyuan Li, Chengyan Wang, Chen Qin, Shuo Wang, Qi Dou, Jing Qin  
+*Medical Imaging Analysis* (2023)
+
 - [Reducing Domain Gap in Frequency and Spatial domain for Cross-modality Domain Adaptation on Medical Image Segmentation](https://arxiv.org/abs/2211.15235)  
 Shaolei Liu, Siqi Yin, Linhao Qu, Manning Wang  
 *AAAI Conference on Artificial Intelligence* (**AAAI** 2023)  
@@ -16,7 +20,7 @@ Zixian Su, Kai Yao, Xi Yang, Qiufeng Wang, Jie Sun, Kaizhu Huang
 
 - [Improving Generalization by Learning Geometry-Dependent and Physics-Based Reconstruction of Image Sequences](https://ieeexplore.ieee.org/document/9932432)  
 Xiajun Jiang, Maryam Toloubidokhti, Jake Bergquist, Brian Zenger, Wilson W Good, Rob S MacLeod, Linwei Wang  
-*IEEE Transactions on Instrumentation and Measurement* (2022)
+*IEEE Transactions on Medical Imaging* (2022)
 
 - [TAE-Seg: Generalized Lung Segmentation via Tile-wise AutoEncoder Enhanced Network](https://ieeexplore.ieee.org/abstract/document/9940997/keywords#keywords)  
 Yurong Chen, Hui Zhang, Yaonan Wang, Lizhu Liu, Q. M. Jonathan Wu;, Yimin Yang  
@@ -171,6 +175,10 @@ Qi Dou, Daniel C. Castro, Konstantinos Kamnitsas, Ben Glocker
 **[⬆ back to top](#Catalogue)**
 
 ## Life-long Learning
+- [Continual learning strategies for cancer-independent detection of lymph node metastases](https://www.sciencedirect.com/science/article/pii/S1361841523000166)  
+Péter Bándi, Maschenka Balkenhol, Marcory van Dijk, Michel Kok, Bram van Ginneken, Jeroen van der Laak, Geert Litjens
+*Medical Imaging Analysis* (2023)
+
 - [Domain-incremental Cardiac Image Segmentation with Style-oriented Replay and Domain-sensitive Feature Whitening](https://ieeexplore.ieee.org/abstract/document/9908146)  
 Kang Li, Lequan Yu, and Pheng-Ann Heng  
 *IEEE Transactions on Medical Imaging* (2022)
