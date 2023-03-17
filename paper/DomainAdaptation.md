@@ -8,6 +8,11 @@
 
 
 ## Unsupervised-Domain-Adaptation
+- [Shape-aware Joint Distribution Alignment for Cross-domain Image Segmentation](https://ieeexplore.ieee.org/document/10050093)
+Ping Wang, Jizong Peng, Marco Pedersoli, Yuanfeng Zhou, Caiming Zhang, Christian Desrosiers  
+[[code](https://github.com/WangPing521、Domain_adaptation_shape_prior)]  
+*IEEE Transactions on Medical Imaging* (2023)
+
 - [Unsupervised Cross-modality Adaptation via Dual Structural-Oriented Guidance for 3D Medical Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10021672)  
 Junlin Xian, Xiang Li, Dandan Tu, Senhua Zhu, Changzheng Zhang, Xiaowu Liu, Xin Li, Xin Yang  
 *IEEE Transactions on Medical Imaging* (2023)

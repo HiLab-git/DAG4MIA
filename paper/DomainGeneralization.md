@@ -5,6 +5,17 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [Generative Inference Network for Imbalanced Domain Generalization](https://ieeexplore.ieee.org/abstract/document/10061463)  
+Haifeng Xia, Taotao Jing, Zhengming Ding  
+[[code](https://github.com/HaifengXia/IDG)]  
+*IEEE Transactions on Medical Imaging* (2023)
+
+
+- [SynthSeg: Segmentation of brain MRI scans of any contrast and resolution without retraining](https://www.sciencedirect.com/science/article/pii/S1361841523000506)  
+Benjamin Billot, Douglas N. Greve, Oula Puonti, Axel Thielscher, Koen Van Leemput, Bruce Fischl, Adrian V. Dalca, Juan Eugenio Iglesias  
+*Medical Imaging Analysis* (2023)
+
+
 - [Region-focused multi-view transformer-based generative adversarial network for cardiac cine MRI reconstruction](https://www.sciencedirect.com/science/article/pii/S136184152300021X)  
 Jun Lyu, Guangyuan Li, Chengyan Wang, Chen Qin, Shuo Wang, Qi Dou, Jing Qin  
 *Medical Imaging Analysis* (2023)
