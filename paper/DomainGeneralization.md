@@ -5,11 +5,25 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [BayeSeg: Bayesian Modeling for Medical Image Segmentation with Interpretable
+Generalizability](https://www.sciencedirect.com/science/article/pii/S1361841523001494)  
+Shangqi Gao, Hangqi Zhou, Yibo Gao, Xiahai Zhuang  
+[[code](https://github.com/obiyoag/BayeSeg)]  
+*Medical Image Analysis* (2023)
+
 - [Generative Inference Network for Imbalanced Domain Generalization](https://ieeexplore.ieee.org/abstract/document/10061463)  
 Haifeng Xia, Taotao Jing, Zhengming Ding  
 [[code](https://github.com/HaifengXia/IDG)]  
 *IEEE Transactions on Medical Imaging* (2023)
 
+- [Deep label fusion: A generalizable hybrid multi-atlas and deep convolutional neural network for medical image segmentation](https://www.sciencedirect.com/science/article/pii/S1361841522003115?via%3Dihub)  
+Long Xie, Laura E.M. Wisse, Jiancong Wang, Sadhana Ravikumar, Pulkit Khandelwal, Trevor Glenn, Anica Luther, Sydney Lim, David A. Wolk, Paul A. Yushkevich  
+*Medical Imaging Analysis* (2023)
+
+- [A hybrid hemodynamic knowledge-powered and feature reconstruction-guided scheme for breast cancer segmentation based on DCE-MRI](https://www.sciencedirect.com/science/article/pii/S1361841522002134?via%3Dihub)  
+Tianxu Lv, Youqing Wu, Yihang Wang, Yuan Liu, Lihua Li, Chuxia Deng, Xiang Pan  
+[[code](https://github.com/AI-medical-diagnosis-team-of-JNU/DCEDuDoFNet)]  
+*Medical Imaging Analysis* (2023)
 
 - [SynthSeg: Segmentation of brain MRI scans of any contrast and resolution without retraining](https://www.sciencedirect.com/science/article/pii/S1361841523000506)  
 Benjamin Billot, Douglas N. Greve, Oula Puonti, Axel Thielscher, Koen Van Leemput, Bruce Fischl, Adrian V. Dalca, Juan Eugenio Iglesias  
@@ -68,6 +82,10 @@ Chen Chen, Zeju Li, Cheng Ouyang, Matthew Sinclair, Wenjia Bai & Daniel Rueckert
 Junyan Lyu; Yiqi Zhang; Yijin Huang; Li Lin; Pujin Cheng; Xiaoying Tang  
 *IEEE Transactions on Medical Imaging* (2022)
 
+- [Meta-learning with implicit gradients in a few-shot setting for medical image segmentation](https://www.sciencedirect.com/science/article/pii/S0010482522000191)  
+Rabindra Khadka, Debesh Jha, Steven Hicks, Vajira Thambawita, Michael A. Riegler, Sharib Ali, Pål Halvorsen  
+*Computers in Biology and Medicine* (2022)
+
 - [DeepLesionBrain: Towards a broader deep-learning generalization for multiple sclerosis lesion segmentation](https://www.sciencedirect.com/science/article/pii/S1361841521003571?ref=cra_js_challenge&fr=RR-1)  
 Reda Abdell hKamraoui, Vinh-ThongTa, Thomas Tourdias, Boris Mansencal, José V Manjon, Pierrick Coup  
 *Medical Imaging Analysis* (2022)
@@ -85,6 +103,11 @@ An Xu, Wenqi Li, Pengfei Guo, Dong Yang, Holger R. Roth, Ali Hatamizadeh, Can Zh
 [[code](https://github.com/zzzqzhou/Dual-Normalization)]  
 Ziqi Zhou, Lei Qi, Xin Yang, Dong Ni, Yinghuan Shi  
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition* (**CVPR** 2022)
+
+- [Enhancing Pseudo Label Quality for Semi-supervised Domain-Generalized Medical Image Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/20217)  
+Huifeng Yao, Xiaowei Hu, Xiaomeng Li  
+[[code](https://github.com/XMed-Lab/EPL_SemiDG)]  
+*AAAI Conference on Artificial Intelligence* (**AAAI** 2022)
 
 - [Single-domain Generalization in Medical Image Segmentation via Test-time Adaptation from Shape Dictionary](https://aaai-2022.virtualchair.net/poster_aaai852)  
 Quande Liu, Cheng Chen, Qi Dou, Pheng Ann Heng  
@@ -164,6 +187,10 @@ Ling Zhang, Xiaosong Wang, Dong Yang, Thomas Sanford, Stephanie Harmon, Baris Tu
 [[code](https://github.com/wyf0912/LDDG)]   
 Haoliang Li, YuFei Wang, Renjie Wan, Shiqi Wang, Tie-Qiang Li, Alex C. Kot  
 *Advances in Neural Information Processing Systems* (**NeurIPS** 2020)
+
+- [Disentangled Representations for Domain-Generalized Cardiac Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-68107-4_19)  
+Xiao Liu, Spyridon Thermos, Agisilaos Chartsias, Alison O’Neil, Sotirios A. Tsaftaris  
+*International Conference on Medical Image Computing and Computer Assisted Intervention - STACOM 2020* (**MICCAI** 2020 workshop)
 
 - [Shape-aware Meta-learning for Generalizing Prostate MRI Segmentation to Unseen Domains](https://arxiv.org/abs/2007.02035)  
 [[code](https://github.com/liuquande/SAML)] / [[data](https://liuquande.github.io/SAML/)]  
