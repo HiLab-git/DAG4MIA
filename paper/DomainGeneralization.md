@@ -5,6 +5,10 @@
 3. [Multi-Site (MS)](#Multi-Site)
 
 ## Domain Generalization
+- [CDDSA: Contrastive domain disentanglement and style augmentation for generalizable medical image segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001640)  
+Ran Gu, Guotai Wang, Jiangshan Lu, Jingyang Zhang, Wenhui Lei, Yinan Chen, Wenjun Liao, Shichuan Zhang, Kang Li, Dimitris N. Metaxas, Shaoting Zhang  
+*Medical Image Analysis* (2023)
+
 - [BayeSeg: Bayesian Modeling for Medical Image Segmentation with Interpretable
 Generalizability](https://www.sciencedirect.com/science/article/pii/S1361841523001494)  
 Shangqi Gao, Hangqi Zhou, Yibo Gao, Xiahai Zhuang  
@@ -62,6 +66,11 @@ Sulaiman Vesal, Iani Gayo, Indrani Bhattacharya, Shyam Natarajan, Leonard S.Mark
 - [Generalizable Pancreas Segmentation Modeling in CT Imaging via Meta-learning and Latent-space Feature Flow Generation](https://ieeexplore.ieee.org/abstract/document/9894672)  
 Jun Li, Tao Chen, Xiaohua Qian  
 *IEEE Journal of Biomedical and Health Informatics* (2022)
+
+- [Joint Modeling of Image and Label Statistics for Enhancing Model Generalizability of Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_35)  
+Shangqi Gao, Hangqi Zhou, Yibo Gao, Xiahai Zhuang  
+[[code](https://github.com/shangqigao/BayeSeg)]  
+*International Conference on Medical Image Computing and Computer Assisted Intervention* (**MICCAI** 2022)
 
 - [Adversarial Consistency for Single Domain Generalization in Medical Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_64)  
 Yanwu Xu, Shaoan Xie, Maxwell Reynolds, Matthew Ragoza, Mingming Gong, Kayhan Batmanghelich  
