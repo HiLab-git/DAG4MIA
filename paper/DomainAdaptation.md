@@ -164,6 +164,12 @@ Jingyang Zhang, Ran Gu, Guotai Wang, Hongzhi Xie, Lixu Gu
 **[⬆ back to top](#Catalogue)**
 
 ## Test-Time Domain Adaptation
+- [Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation
+for 2D Medical Image Segmentation](https://arxiv.org/abs/2311.18363)
+Ziyang Chen, Yiwen Ye, Mengkang Lu, Yongsheng Pan, Yong Xia  
+[[code](https://github.com/Chen-Ziyang/VPTTA)]  
+*arXiv preprint arXiv:2311.18363* (2023)
+
 - [Autoencoder based self-supervised test-time adaptation for medical image analysis](https://www.sciencedirect.com/science/article/pii/S1361841521001821)  
 Yufan He, Aaron Carass, Lianrui Zuo, Blake E.Dewey, Jerry L.Princea  
 [[code](https://github.com/YufanHe/self-domain-adapted-network)]  
