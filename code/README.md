@@ -109,6 +109,7 @@ If this project is helpful for your research, please cite the following works:
 ```
 
 ### Acknowledgement
-Part of the code is revised from [DoFE][dofe].
+Part of the code is revised from [DoFE][dofe] and [SDNet][sdnet].
 
 [dofe]:https://github.com/emma-sjwang/Dofe
+[sdnet]: https://github.com/agis85/anatomy_modality_decomposition
